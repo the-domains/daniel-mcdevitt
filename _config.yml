@@ -1,3 +1,4 @@
+layout_spectrum: 0.631397950462997
 typography_spectrum: 0.269442948512733
 color:
   brandStrength: 0.171452175360173
@@ -5,12 +6,9 @@ color:
   saturation: 0.7033691226970404
   rhythmicContrast: 0.5467346389777958
   brandColors:
-    - '#292929'
-    - '#5B7876'
-    - '#8F9E8B'
-    - '#F2E6B6'
-    - '#412A22'
-layout_spectrum: 0.631397950462997
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Daniel McDevitt
-title: Daniel McDevitt
-description: The single-most captivating page on the internet
